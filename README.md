@@ -1,6 +1,6 @@
 ## Overview
 
-Quasi-papirus is a free and open source SVG icon theme variant of [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), which itself is based on the [Paper Icon Set](https://github.com/snwh/paper-icon-theme). You can either download a release and install it manually, or use the provided installation script. The standard Papirus installation methods and tools are not included. Both installation options are described below.
+Quasi-papirus is a free and open source SVG icon theme variant of [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), which itself is based on the [Paper Icon Set](https://github.com/snwh/paper-icon-theme). You can either download a release and install it manually, or use the provided installation script. The standard Papirus installation methods and tools are not included. Both installation options are described below.
 
 
 > [!NOTE]
@@ -57,7 +57,7 @@ Remember to restart Plasma with `systemctl --user restart plasma-plasmashell` (i
 
 
 ### Installation script
-You can use the script provided by this repository to install or update quasi-papirus. Keep in mind that by “update,” I mean overwriting the local version with changes that have been downloaded manually. In other words, the script does not download updates from the internet; it only helps manage the local installation.
+You can use the script provided by this repository to install or update Quasi-papirus. Keep in mind that by “update,” I mean overwriting the local version with changes that have been downloaded manually. In other words, the script does not download updates from the internet; it only helps manage the local installation.
 
 To install using the script, run `install.sh`, which is included with the icon theme. This will install the icon theme in the standard location so it can be automatically detected by the system.
 
@@ -70,10 +70,10 @@ This should be all you need! To update, simply download the latest release and r
 
 ### Manual installation
 
-For a manual installation, you can copy the quasi-papirus folder to your user directory at `~/.local/share/icons/` or wherever you need it.
+For a manual installation, you can copy the Quasi-papirus folder to your user directory at `~/.local/share/icons/` or wherever you need it.
 
 > [!NOTE]
-> When installing manually, make sure you copy the inner quasi-papirus folder, the one containing index.theme and the icon directories. Do not copy the outer quasi-papirus folder, which only contains the actual theme folder and other repository files.
+> When installing manually, make sure you copy the inner Quasi-papirus folder, the one containing index.theme and the icon directories. Do not copy the outer Quasi-papirus folder, which only contains the actual theme folder and other repository files.
 
 ## Uninstallation
 To uninstall it, you can run the uninstallation script included in the downloaded folder, `uninstall.sh`.
@@ -87,7 +87,7 @@ Alternatively, deleting `~/.local/share/icons/quasi-papirus` is sufficient.
 
 ## Contributing
 
-I think it should be clear by now that this project isn't really intended for contributions. However, the Issues section is open if you want to leave feedback or discuss an idea.
+I think it should be clear by now that this project isn't really intended for contributions, you should really contribute to the [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) instead. Any change will eventually make their way into this fork. However, the Issues section is open if you want to leave feedback or discuss an idea.
 
 ## License
 This project uses the same license as Papirus, [GNU GPL-3](LICENSE).
