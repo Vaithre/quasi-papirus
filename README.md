@@ -44,7 +44,7 @@ This should be all you need! To update, simply download the latest release and r
 For a manual installation, you can copy the quasi-papirus folder to your user directory at `~/.local/share/icons/` or wherever you need it.
 
 > [!NOTE]
-> When installing manually, make sure you copy the inner quasi-papirus folder — the one containing index.theme and the icon directories. Do not copy the outer quasi-papirus folder, which only contains the actual theme folder and other repository files.
+> When installing manually, make sure you copy the inner quasi-papirus folder, the one containing index.theme and the icon directories. Do not copy the outer quasi-papirus folder, which only contains the actual theme folder and other repository files.
 
 ## Uninstallation
 To uninstall it, you can run the uninstallation script included in the downloaded folder, `uninstall.sh`.
@@ -55,3 +55,10 @@ chmod +x uninstall.sh
 ```
 
 Alternatively, deleting `~/.local/share/icons/quasi-papirus` is sufficient.
+
+## Contributing
+
+I think it should be clear by now that this project isn't really intended for contributions. However, the Issues section is open if you want to leave feedback or discuss an idea.
+
+## License
+This project uses the same license as Papirus, [GNU GPL-3](LICENSE).
