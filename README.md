@@ -4,7 +4,7 @@ Quasi-papirus is a free and open source SVG icon theme variant of [Papirus icon 
 
 
 > [!NOTE]
-> This particular version has been modified to accommodate personal preference changes in some specific areas. I keep the fork public in case anyone is interested in checking out this version, which is kept up to date with upstream, but it is not intended to be a serious project or actively developed as one.
+> This particular version has been modified to accommodate personal preference changes in some specific areas. I keep the fork public on GitHub in case anyone is interested in checking out this version, and it makes it easier to keep it up to date with upstream, but it is not intended to be a serious project or actively developed as one.
 
 ## Changes from upstream
 
