@@ -14,6 +14,35 @@ The “Light” and “Dark” variants were removed. Essentially, they are lega
 #### **2. Icon variants for archive files**
 By default, Papirus uses a [single icon](quasi-papirus/22x22/apps/ark.svg) for all archive file types. I don't particularly like this, so I created separate variants for [ZIP](quasi-papirus/22x22/apps/ark-zip.svg), [7z](quasi-papirus/22x22/apps/ark-7z.svg), [TAR](quasi-papirus/22x22/apps/ark-tar-gz.svg), and [RAR](quasi-papirus/22x22/apps/ark-rar.svg) files, which are the formats I usually deal with.
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="quasi-papirus/22x22/apps/ark-zip.svg">
+        <img src="quasi-papirus/22x22/apps/ark-zip.svg" width="48" alt="ZIP" /><br />
+        <b>ZIP</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="quasi-papirus/22x22/apps/ark-7z.svg">
+        <img src="quasi-papirus/22x22/apps/ark-7z.svg" width="48" alt="7z" /><br />
+        <b>7z</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="quasi-papirus/22x22/apps/ark-tar-gz.svg">
+        <img src="quasi-papirus/22x22/apps/ark-tar-gz.svg" width="48" alt="TAR" /><br />
+        <b>TAR</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="quasi-papirus/22x22/apps/ark-rar.svg">
+        <img src="quasi-papirus/22x22/apps/ark-rar.svg" width="48" alt="RAR" /><br />
+        <b>RAR</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
 #### **3. Unified folder color**
 This might seem like a somewhat odd choice. I used Windows for many years, and I got somewhat used to the folder color Microsoft has historically used. In Papirus, the closest option to this is [paleorange](quasi-papirus/32x32/places/folder-paleorange.svg).
 
