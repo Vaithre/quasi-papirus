@@ -24,6 +24,9 @@ Ultimately, you can manually change individual folder icons to use other themes,
 ## Installation
 **Keep in mind that this icon set is updated manually.**
 
+Remember to restart Plasma with `systemctl --user restart plasma-plasmashell` (in case you are using KDE), or log out and back in to your session to ensure the changes are applied correctly. In my experience, the icons are only applied correctly after logging out and back in.
+
+
 ### Installation script
 You can use the script provided by this repository to install or update quasi-papirus. Keep in mind that by “update,” I mean overwriting the local version with changes that have been downloaded manually. In other words, the script does not download updates from the internet; it only helps manage the local installation.
 
