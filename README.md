@@ -1,6 +1,6 @@
 ## Overview
 
-Quasi-papirus is a free and open source SVG icon theme variant of [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), which itself is based on the [Paper Icon Set](https://github.com/snwh/paper-icon-theme). Since I don't really know how icon theme development works, this solution is a bit of a hack, at least for now. Basically, it installs normally, and then a patch is applied afterward. Alternatively, you can download the entire release and install it manually. Both methods are described below.
+Quasi-papirus is a free and open source SVG icon theme variant of [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme), which itself is based on the [Paper Icon Set](https://github.com/snwh/paper-icon-theme). You can either download a release and install it manually, or use the provided installation script. The standard Papirus installation methods and tools are not included. Both installation options are described below.
 
 
 > [!NOTE]
